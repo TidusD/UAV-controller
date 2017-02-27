@@ -15,6 +15,7 @@
   <author email="davide.rebora@gmail.com">davide</author>
   <author email="macchiusiluca@gmail.com">luca</author>
 
+  <license>TODO</license>
 
 
   <buildtool_depend>catkin</buildtool_depend>
